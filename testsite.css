@@ -1,7 +1,3 @@
-/* -----------------------------
-   GLOBAL STYLES
------------------------------- */
-
 body {
     margin: 0;
     background-color: rgba(199, 189, 189, 0.45);
@@ -10,10 +6,6 @@ body {
     line-height: 1.6;
     text-align: center;
 }
-
-/* -----------------------------
-   NAVIGATION
------------------------------- */
 
 nav {
     background-color: rgb(60, 2, 94);
@@ -31,10 +23,6 @@ nav a:hover {
     text-decoration: underline;
 }
 
-/* -----------------------------
-   HEADINGS
------------------------------- */
-
 h2 {
     color: rgb(60, 2, 94);
     margin-top: 30px;
@@ -46,19 +34,12 @@ h3 {
     margin-top: 25px;
 }
 
-/* -----------------------------
-   MAIN CONTENT
------------------------------- */
-
 p {
     max-width: 800px;
     margin: 20px auto;
     font-size: 16px;
 }
 
-/* -----------------------------
-   LISTS
------------------------------- */
 
 ul {
     list-style-position: inside;
@@ -67,12 +48,9 @@ ul {
     max-width: 600px;
 }
 
-/* -----------------------------
-   IMAGES
------------------------------- */
-
 img {
     display: block;
     margin: 20px auto;
     border-radius: 8px;
 }
+
