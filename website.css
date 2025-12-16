@@ -1,0 +1,85 @@
+/* -----------------------------
+   GLOBAL STYLES
+------------------------------ */
+
+body {
+    margin: 0;
+    background-color: rgba(199, 189, 189, 0.45);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(0, 0, 0);
+    line-height: 1.6;
+    text-align: center;
+}
+
+/* -----------------------------
+   NAVIGATION
+------------------------------ */
+
+nav {
+    background-color: rgb(60, 2, 94);
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: 600;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+/* -----------------------------
+   HEADINGS
+------------------------------ */
+
+h1 {
+    color: rgb(60, 2, 94);
+    margin-top: 30px;
+    font-size: 32px;
+}
+
+/* -----------------------------
+   MAIN CONTENT
+------------------------------ */
+
+p {
+    max-width: 800px;
+    margin: 20px auto;
+    font-size: 16px;
+}
+
+/* -----------------------------
+   IMAGES
+------------------------------ */
+
+img {
+    display: block;
+    margin: 20px auto;
+    border-radius: 8px;
+}
+
+/* -----------------------------
+   FOOTER / CONTACT
+------------------------------ */
+
+footer {
+    background-color: rgba(60, 2, 94, 0.1);
+    padding: 25px;
+    margin-top: 40px;
+}
+
+footer h2 {
+    color: rgb(60, 2, 94);
+}
+
+footer a {
+    color: rgb(60, 2, 94);
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
